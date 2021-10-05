@@ -25,7 +25,6 @@ You can use Multimarkdown syntax for tables. The following shows a sample:
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
 
-{% include note.html content="You can't use block level tags (paragraphs or lists) inside Markdown tables, so if you need separate paragraphs inside a cell, use `<br/><br/>`." %}
 
 ## HTML Tables {#htmltables}
 
