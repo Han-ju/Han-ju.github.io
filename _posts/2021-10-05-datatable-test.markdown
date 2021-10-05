@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tables
+title: datatable test
 datatable: true
 date:   2021-10-05 15:49:59 +0900
 categories: jekyll update2
