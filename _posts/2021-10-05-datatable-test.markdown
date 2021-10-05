@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-10-05 15:49:59 +0900
+title: datatable test
 datatable: true
-categories: jekyll update
+date:   2021-10-05 15:49:59 +0900
+categories: jekyll update2
 ---
+
 ## Multimarkdown Tables
 
 You can use Multimarkdown syntax for tables. The following shows a sample:
@@ -130,3 +131,7 @@ Notice a few features:
 * You can page the results so that you show only a certain number of values on the first page and then require users to click next to see more entries.
 
 Read more of the [DataTable documentation](https://www.datatables.net/manual/options) to get a sense of the options you can configure. You should probably only use DataTables when you have long, massive tables full of information.
+
+{% include note.git html content=" Try to keep the columns to 3 or 4 columns only. If you add 5+ columns, your table may create horizontal scrolling with the theme. Additionally, keep the column heading titles short." %}
+
+{% include links.html %}
